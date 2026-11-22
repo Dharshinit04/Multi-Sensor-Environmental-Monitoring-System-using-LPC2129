@@ -1,6 +1,5 @@
 #include "header.h"
 
-
 void adc_init(void)
 {
 PINSEL1|=0x15400000;
